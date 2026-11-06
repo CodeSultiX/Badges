@@ -18,9 +18,8 @@
     }
   },
   "users": [
-    { "platform": "twitch",  "name": "your_twitch_login", "badges": ["developer"] },
-    { "platform": "youtube", "name": "@your_youtube_handle", "badges": ["developer"] },
-    { "platform": "tiktok",  "name": "your_tiktok_username", "badges": ["developer"] },
-    { "platform": "twitch",  "name": "some_tester", "badges": ["tester"] }
+    { "platform": "twitch",  "name": "sultix_", "badges": ["developer"] },
+    { "platform": "youtube", "name": "@SultieX", "badges": ["developer"] },
+    { "platform": "tiktok",  "name": "_sultix_", "badges": ["developer"] }
   ]
 }
