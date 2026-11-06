@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "badges": {
+    "developer": {
+      "name": { "en": "Developer", "ru": "Разработчик", "es": "Desarrollador", "de": "Entwickler", "zh": "开发者" },
+      "color": "#FFC21A",
+      "icon": "developer"
+    },
+    "tester": {
+      "name": { "en": "Tester", "ru": "Тестер", "es": "Tester", "de": "Tester", "zh": "测试员" },
+      "color": "#34D399",
+      "icon": "tester"
+    },
+    "designer": {
+      "name": { "en": "Designer", "ru": "Дизайнер", "es": "Diseñador", "de": "Designer", "zh": "材质设计师" },
+      "color": "#F472B6",
+      "icon": "designer"
+    }
+  },
+  "users": [
+    { "platform": "twitch",  "name": "your_twitch_login", "badges": ["developer"] },
+    { "platform": "youtube", "name": "@your_youtube_handle", "badges": ["developer"] },
+    { "platform": "tiktok",  "name": "your_tiktok_username", "badges": ["developer"] },
+    { "platform": "twitch",  "name": "some_tester", "badges": ["tester"] }
+  ]
+}
