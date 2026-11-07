@@ -8,18 +8,21 @@
     },
     "tester": {
       "name": { "en": "Tester", "ru": "Тестер", "es": "Tester", "de": "Tester", "zh": "测试员" },
-      "color": "#34D399",
+      "color": "#36bb61",
       "icon": "tester"
     },
     "designer": {
       "name": { "en": "Designer", "ru": "Дизайнер", "es": "Diseñador", "de": "Designer", "zh": "材质设计师" },
-      "color": "#F472B6",
+      "color": "#3c957d",
       "icon": "designer"
     }
   },
   "users": [
     { "platform": "twitch",  "name": "sultix_", "badges": ["developer"] },
     { "platform": "youtube", "name": "@SultieX", "badges": ["developer"] },
-    { "platform": "tiktok",  "name": "_sultix_", "badges": ["developer"] }
+    { "platform": "tiktok",  "name": "_sultix_", "badges": ["developer"] },
+    { "platform": "youtube",  "name": "@Nikssll", "badges": ["tester"] },
+    { "platform": "twitch",  "name": "niksll_", "badges": ["tester"] },
+    { "platform": "twitch",  "name": "permintion", "badges": ["tester"] }
   ]
 }
